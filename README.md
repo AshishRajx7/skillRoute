@@ -5,6 +5,8 @@ SkillRoute is a full stack web application where users share structured learning
 The platform helps learners follow real human learning journeys instead of browsing random unstructured content.
 
 ---
+<img width="1900" height="520" alt="image" src="https://github.com/user-attachments/assets/3c7df122-b90b-4e81-8a5c-35be29370bbc" />
+
 
 ## Live Demo
 
